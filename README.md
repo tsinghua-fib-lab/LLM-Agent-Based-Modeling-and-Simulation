@@ -22,7 +22,7 @@ We will update the journal name after our paper is officially published.
     - [Human Alignment and Personalization](#Human-Alignment-and-Personalization)
     - [How to simulate actions](#How-to-simulate-actions)
     - [Evaluation of LLM agents](#Evaluation-of-LLM-agents)
-- Recent advances of LLM for ABS
+- [Recent advances of LLM for ABS](#Recent-advances-of-LLM-for-ABS)
     -  [Social Domain I: Social Sciences](#Social-Domain-I:-Social-Sciences)
         - [Social Network Dynamics](#Social-Network-Dynamics)
         - [Cooperation](#Cooperation)
