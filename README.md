@@ -18,22 +18,22 @@ We will update the journal name after our paper is officially published.
 
 #Table of Contents
 - [Challenges and approaches of LLM for ABS](#Challenges-and-approaches-of-LLM-for-ABS)
-    - [Environment Construction and Interface](#EnvironmentConstructionandInterface)
-    - [Human Alignment and Personalization](#HumanAlignmentandPersonalization)
-    - [How to simulate actions](#Howtosimulateactions)
-    - Evaluation of LLM agents
+    - [Environment Construction and Interface](#Environment-Construction-and-Interface)
+    - [Human Alignment and Personalization](#Human-Alignment-and-Personalization)
+    - [How to simulate actions](#How-to-simulate-actions)
+    - [Evaluation of LLM agents](#Evaluation-of-LLM-agents)
 - Recent advances of LLM for ABS
-    -  Social Domain I: Social Sciences
-        - Social Network Dynamics
-        - Cooperation
-        - Individual Social Behavior
-    - Social Domain II: Economic System
-        - Individual Economic Behavior
-        - Interactive Economic Behavior
-        - Economic System
-    - Physical Domain
-    - Cyber Domain
-    - Hybrid Domain
+    -  [Social Domain I: Social Sciences](#Social-Domain-I:-Social-Sciences)
+        - [Social Network Dynamics](#Social-Network-Dynamics)
+        - [Cooperation](#Cooperation)
+        - [Individual Social Behavior](#Social-Domain-I:-Social-Sciences)
+    - [Social Domain II: Economic System](Social-Domain-II:-Economic-System)
+        - [Individual Economic Behavior](Individual-Economic-Behavior)
+        - [Interactive Economic Behavior](Interactive-Economic-Behavior)
+        - [Economic System](Economic-System)
+    - [Physical Domain](Physical-Domain)
+    - [Cyber Domain](Cyber-Domain)
+    - [Hybrid Domain](Hybrid-Domain)
 
 ## Challenges and approaches of LLM for ABS
    ### Environment Construction and Interface
