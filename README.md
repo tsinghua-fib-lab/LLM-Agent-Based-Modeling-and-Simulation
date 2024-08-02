@@ -16,7 +16,7 @@ Please cite our survey paper if you find our work helpful.
 ```
 We will update the journal name after our paper is officially published.
 
-#Table of Contents
+# Table of Contents
 - [Challenges and approaches of LLM for ABS](#Challenges-and-approaches-of-LLM-for-ABS)
     - [Environment Construction and Interface](#Environment-Construction-and-Interface)
     - [Human Alignment and Personalization](#Human-Alignment-and-Personalization)
