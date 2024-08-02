@@ -26,7 +26,7 @@ We will update the journal name after our paper is officially published.
     -  [Social Domain I: Social Sciences](#Social-Domain-I:-Social-Sciences)
         - [Social Network Dynamics](#Social-Network-Dynamics)
         - [Cooperation](#Cooperation)
-        - [Individual Social Behavior](#Social-Domain-I:-Social-Sciences)
+        - [Individual Social Behavior](#Individual-Social-Behavior)
     - [Social Domain II: Economic System](Social-Domain-II:-Economic-System)
         - [Individual Economic Behavior](Individual-Economic-Behavior)
         - [Interactive Economic Behavior](Interactive-Economic-Behavior)
