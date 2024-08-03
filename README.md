@@ -27,13 +27,13 @@ We will update the journal name after our paper is officially published.
         - [Social Network Dynamics](#Social-Network-Dynamics)
         - [Cooperation](#Cooperation)
         - [Individual Social Behavior](#Individual-Social-Behavior)
-    - [Social Domain II: Economic System](Social-Domain-II-Economic-System)
-        - [Individual Economic Behavior](Individual-Economic-Behavior)
-        - [Interactive Economic Behavior](Interactive-Economic-Behavior)
-        - [Economic System](Economic-System)
-    - [Physical Domain](Physical-Domain)
-    - [Cyber Domain](Cyber-Domain)
-    - [Hybrid Domain](Hybrid-Domain)
+    - [Social Domain II: Economic System](#Social-Domain-II-Economic-System)
+        - [Individual Economic Behavior](#Individual-Economic-Behavior)
+        - [Interactive Economic Behavior](#Interactive-Economic-Behavior)
+        - [Economic System](#Economic-System)
+    - [Physical Domain](#Physical-Domain)
+    - [Cyber Domain](#Cyber-Domain)
+    - [Hybrid Domain](#Hybrid-Domain)
 
 ## Challenges and approaches of LLM for ABS
    ### Environment Construction and Interface
