@@ -1,7 +1,7 @@
 # LLM empowered agent-based modeling and simulation
 A summary of works on LLM empowered agent-based modeling and simulation.
 
-Our survey **Large language models empowered agent-based modeling and simulation: a survey and perspectives** is accepted by Humanities and Social Sciences Communications, which is under *Nature*.
+Our survey **Large language models empowered agent-based modeling and simulation: a survey and perspectives** is accepted by Humanities and Social Sciences Communications.
 
 A preprint is available on arxiv: [link](https://arxiv.org/pdf/2312.11970)
 
