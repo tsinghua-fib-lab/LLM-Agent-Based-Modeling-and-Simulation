@@ -1,20 +1,23 @@
-# LLM empowered agent-based modeling and simulation
+# Large language model (LLM) agent-based modeling and simulation
 A summary of works on LLM empowered agent-based modeling and simulation.
 
-Our survey **Large language models empowered agent-based modeling and simulation: a survey and perspectives** is accepted by Humanities and Social Sciences Communications.
+Our survey **Large language models empowered agent-based modeling and simulation: a survey and perspectives** is published in Humanities and Social Sciences Communications.
 
-A preprint is available on arxiv: [link](https://arxiv.org/pdf/2312.11970)
+Please refer to the paper: [link](https://www.nature.com/articles/s41599-024-03611-3)
 
 Please cite our survey paper if you find our work helpful.
 ```
-@article{gao2023large,
+@article{gao2024large,
   title={Large language models empowered agent-based modeling and simulation: A survey and perspectives},
   author={Gao, Chen and Lan, Xiaochong and Li, Nian and Yuan, Yuan and Ding, Jingtao and Zhou, Zhilun and Xu, Fengli and Li, Yong},
-  journal={arXiv preprint arXiv:2312.11970},
-  year={2023}
+  journal={Humanities and Social Sciences Communications},
+  volume={11},
+  number={1},
+  pages={1--24},
+  year={2024},
+  publisher={Palgrave}
 }
 ```
-We will update the journal name after our paper is officially published.
 
 # Table of Contents
 - [Challenges and approaches of LLM for ABS](#Challenges-and-approaches-of-LLM-for-ABS)
